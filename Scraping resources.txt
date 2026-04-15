@@ -1,0 +1,16 @@
+A. Crowdsourced Datasets
+Check sites like Kaggle or UCI Machine Learning Repository. 
+Researchers often upload anonymized Facebook datasets for academic use, 
+saving you the risk of scraping.
+
+B. Specialized Social Listening Tools
+Tools like CrowdTangle (owned by Meta, though access is limited), Brandwatch, 
+or Meltwater have licensed access to Facebook data. 
+They provide a dashboard or API for tracking public trends 
+without you needing to write a single line of scraper code.
+
+C. Browser Extensions (Low Volume)
+If you only need data from a few pages, manual browser extensions like Web Scraper 
+(webscraper.io) can sometimes handle Facebook better than a script 
+because they operate within your actual browser session, 
+mimicking human behavior more closely.
